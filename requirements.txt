@@ -1,0 +1,5 @@
+selenium
+pytest
+pytest-ordering
+pytest-html
+webdriver-manager
